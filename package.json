@@ -1,0 +1,19 @@
+{
+  "name": "be-restful-assessment",
+  "version": "1.0.0",
+  "description": "Backend RESTful assessment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davide Vacatello",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "mongoose": "^5.3.14"
+  }
+}
