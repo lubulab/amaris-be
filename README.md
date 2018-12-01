@@ -10,6 +10,8 @@ https://be-restful-assessment.herokuapp.com/clients/Manning
 3. getByPolicyNumber(policyNumber)
 https://be-restful-assessment.herokuapp.com/client/policy/64cceef9-3a01-49ae-a23b-3761b604800b
 
-4. fetchByUsername(username)
+4. fetchByUsername(username) | SUCCESS
 https://be-restful-assessment.herokuapp.com/policies/Manning
+
+4. fetchByUsername(username) | FAIL
 https://be-restful-assessment.herokuapp.com/policies/Barnett
